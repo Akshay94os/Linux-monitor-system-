@@ -1,0 +1,11 @@
+2026-08-02 10:00:15 - System Monitor started
+2026-08-02 10:00:18 - Viewed system information
+2026-08-02 10:00:30 - Checked CPU usage
+2026-08-02 10:00:45 - Checked memory usage
+2026-08-02 10:01:02 - Checked disk usage
+2026-08-02 10:01:20 - Viewed logged-in users
+2026-08-02 10:01:45 - Displayed top memory-consuming processes
+2026-08-02 10:02:10 - Checked service: ssh
+2026-08-02 10:02:45 - Backup created successfully: backup_20260802_100245.tar.gz
+2026-08-02 10:03:05 - Viewed activity log
+2026-08-02 10:03:20 - User exited the application
