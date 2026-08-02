@@ -1,0 +1,103 @@
+Linux System Monitor & Management Tool
+
+A comprehensive Bash Shell Scripting project that automates common Linux system administration tasks. This project provides a menu-driven interface for monitoring system resources, checking system health, creating backups, and maintaining activity logs.
+
+Features
+
+- Display system information
+- Monitor CPU usage
+- Monitor memory usage
+- Check disk usage
+- Show logged-in users
+- Display top memory-consuming processes
+- Check the status of system services
+- Create compressed backups of directories
+- Log all operations with timestamps
+- Menu-driven interface for easy navigation
+
+Technologies Used
+
+- Bash Shell Scripting
+- Linux Operating System
+- Standard Linux Utilities ("df", "free", "ps", "top", "uptime", "tar", "hostname", "date")
+
+Project Structure
+
+Linux-System-Monitor/
+├── system_monitor.sh
+├── README.md
+└── logs/
+    └── system.log
+
+Requirements
+
+- Linux (Ubuntu, Debian, Fedora, CentOS, Arch, etc.)
+- Bash Shell
+- Basic Linux command-line knowledge
+
+Installation
+
+1. Clone the repository:
+
+git clone https://github.com/your-username/Linux-System-Monitor.git
+
+2. Navigate to the project directory:
+
+cd Linux-System-Monitor
+
+3. Make the script executable:
+
+chmod +x system_monitor.sh
+
+4. Run the script:
+
+./system_monitor.sh
+
+Menu Options
+
+- System Information
+- CPU Usage
+- Memory Usage
+- Disk Usage
+- Logged-in Users
+- Top Processes
+- Service Status Check
+- Directory Backup
+- View Log File
+- Exit
+
+Concepts Demonstrated
+
+- Variables
+- User Input
+- Conditional Statements ("if", "elif", "else")
+- "case" Statement
+- "while" Loop
+- Functions
+- File Handling
+- Command Execution
+- Logging
+- Error Handling
+
+Learning Outcomes
+
+This project demonstrates practical Linux administration and automation using Bash scripting. It showcases how shell scripts can simplify repetitive tasks and improve system management.
+
+Future Improvements
+
+- Email notifications for critical system alerts
+- CPU and RAM usage graphs
+- Automatic scheduled backups using Cron
+- Log rotation
+- Network monitoring
+- Process management
+
+Author
+
+Akshay Subhash Borase
+
+- GitHub: https://github.com/Akshay94os
+
+License
+
+This project is licensed under the MIT License.
